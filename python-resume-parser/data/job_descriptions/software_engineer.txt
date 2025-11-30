@@ -1,0 +1,58 @@
+Software Engineer - Senior Level
+
+Company: TechCorp Solutions
+Location: San Francisco, CA (Remote friendly)
+
+Job Description:
+
+We are seeking a talented Senior Software Engineer to join our growing engineering team. You will be responsible for designing, developing, and maintaining scalable web applications and services that serve millions of users worldwide.
+
+Responsibilities:
+• Design and develop high-quality, scalable software solutions
+• Lead technical design reviews and mentor junior developers
+• Collaborate with product managers and designers to define requirements
+• Write clean, maintainable, and well-tested code
+• Participate in code reviews and ensure best practices
+• Troubleshoot and debug complex technical issues
+• Contribute to architectural decisions and technical roadmap
+• Stay current with emerging technologies and industry trends
+
+Required Qualifications:
+• Bachelor's degree in Computer Science, Engineering, or related field
+• 5+ years of professional software development experience
+• Strong proficiency in Python, Java, or JavaScript
+• Experience with web frameworks (Django, Flask, React, Node.js)
+• Solid understanding of databases (PostgreSQL, MySQL, MongoDB)
+• Experience with cloud platforms (AWS, Azure, GCP)
+• Knowledge of containerization (Docker, Kubernetes)
+• Experience with version control systems (Git)
+• Strong problem-solving and analytical skills
+• Excellent communication and collaboration abilities
+
+Preferred Qualifications:
+• Master's degree in Computer Science or related field
+• Experience with microservices architecture
+• Knowledge of DevOps practices and CI/CD pipelines
+• Experience with machine learning frameworks (TensorFlow, PyTorch)
+• Familiarity with Agile/Scrum methodologies
+• Experience with monitoring and logging tools (ELK stack, Prometheus)
+• Open source contributions
+• Previous leadership or mentoring experience
+
+Technical Skills:
+• Programming Languages: Python, Java, JavaScript, TypeScript, Go
+• Frameworks: React, Angular, Django, Flask, Spring Boot, Express.js
+• Databases: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+• Cloud: AWS (EC2, S3, RDS, Lambda), Azure, Google Cloud Platform
+• Tools: Docker, Kubernetes, Jenkins, Git, JIRA, Confluence
+• Other: REST APIs, GraphQL, microservices, event-driven architecture
+
+Benefits:
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• Flexible work arrangements and unlimited PTO
+• Professional development budget
+• State-of-the-art equipment and workspace
+• Team building events and company retreats
+
+Join our team and help us build the future of technology while working with cutting-edge tools and methodologies in a collaborative, innovation-driven environment.

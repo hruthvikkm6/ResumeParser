@@ -1,0 +1,60 @@
+Data Scientist - Mid to Senior Level
+
+Company: DataTech Analytics
+Location: New York, NY / Remote
+
+Position Overview:
+
+We are looking for a passionate Data Scientist to join our analytics team and help drive data-driven decision making across the organization. You will work with large datasets, build predictive models, and translate complex findings into actionable business insights.
+
+Key Responsibilities:
+• Analyze large, complex datasets to identify trends and patterns
+• Develop and deploy machine learning models for predictive analytics
+• Create data visualizations and dashboards for stakeholders
+• Collaborate with cross-functional teams to define analytical requirements
+• Design and conduct A/B tests and statistical experiments
+• Build automated data pipelines and ETL processes
+• Present findings and recommendations to executive leadership
+• Mentor junior data analysts and contribute to best practices
+
+Required Skills and Experience:
+• Master's or PhD in Statistics, Mathematics, Computer Science, or related field
+• 3-7 years of experience in data science or analytics role
+• Expert-level proficiency in Python and R
+• Strong knowledge of SQL and database management
+• Experience with machine learning frameworks (scikit-learn, TensorFlow, PyTorch)
+• Proficiency in data visualization tools (Matplotlib, Seaborn, Plotly, Tableau)
+• Experience with big data technologies (Spark, Hadoop, Kafka)
+• Strong statistical analysis and hypothesis testing skills
+• Experience with cloud platforms (AWS, Azure, GCP)
+• Excellent communication and presentation skills
+
+Preferred Qualifications:
+• PhD in a quantitative field
+• Experience in financial services or e-commerce industry
+• Knowledge of deep learning and neural networks
+• Experience with MLOps and model deployment
+• Familiarity with time series analysis and forecasting
+• Experience with natural language processing (NLP)
+• Knowledge of experiment design and causal inference
+• Previous experience leading data science projects
+
+Technical Requirements:
+• Programming: Python, R, SQL, Scala (preferred)
+• ML/Stats: scikit-learn, TensorFlow, PyTorch, Keras, XGBoost
+• Data Tools: Pandas, NumPy, Jupyter, Apache Spark, Airflow
+• Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+• Cloud: AWS (SageMaker, EC2, S3), Azure ML, Google Cloud AI
+• Databases: PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery
+• Version Control: Git, GitHub, GitLab
+
+What We Offer:
+• Competitive compensation package with performance bonuses
+• Comprehensive benefits including health, dental, vision, and 401k
+• Flexible work arrangements and remote work options
+• Professional development opportunities and conference attendance
+• Access to cutting-edge tools and technologies
+• Collaborative and inclusive team environment
+• Opportunity to work on high-impact projects with real business value
+
+The ideal candidate will have a strong analytical mindset, be comfortable working with ambiguous problems, and have a passion for turning data into actionable insights that drive business growth.
